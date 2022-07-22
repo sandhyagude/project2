@@ -1,6 +1,6 @@
-#### Testimonials Project
+# Testimonials Project
 
-# In this project i used images, and for css styling purpose i used css flex and grid.
+ In this project i used images, and for css styling purpose i used css flex and grid.
 
 ## css flex properties that are used in this project are :
 
